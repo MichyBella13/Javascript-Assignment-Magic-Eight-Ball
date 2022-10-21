@@ -33,4 +33,6 @@ case 6 :
 case 7 :
 		eightBall = 'Signs point tto yes'
 		break;
+//Print Answer To console.log
+console.log(`Magic EightBall: ${eightBall}`)
 
