@@ -31,7 +31,7 @@ case 6 :
 		eightBall = 'Outlook not so good'
 		break;
 case 7 :
-		eightBall = 'Signs point tto yes'
+		eightBall = 'Signs point to yes'
 		break;
 //Print Answer To console.log
 console.log(`Magic EightBall: ${eightBall}`)
